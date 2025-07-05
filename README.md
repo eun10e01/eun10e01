@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+<!--
 **eun10e01/eun10e01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=eun10e01&show_icons=true&theme=default)
+
+[![Solved.ac Projile](https://mazassumnida.wtf/api/v2/generate_badge?boj=eun10e01)](https://solved.ac/eun10e01)
