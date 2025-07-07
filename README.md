@@ -11,6 +11,7 @@
 
 ## Currently learning
 + Unity
++ Algorithms
 + Git & GitHub
 + SQL
 
