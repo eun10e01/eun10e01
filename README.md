@@ -15,7 +15,7 @@
 + Git & GitHub
 + SQL
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=eun10e01&show_icons=true&theme=default&cache_seconds=86400)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun10e01&layout=compact)](https://github.com/anuraghazra/github-readme-stats&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=eun10e01&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun10e01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=eun10e01)](https://solved.ac/eun10e01)
