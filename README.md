@@ -1,5 +1,5 @@
 # Welcome
-⚙️Computer Science Student
+⚙️Computer Engineering Student
 + **CONTACT :** eun10e01@gmail.com
 + **BLOG :** https://10e01.tistory.com
 
