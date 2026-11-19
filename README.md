@@ -8,6 +8,7 @@
 
 ## Projects
 + remind_view
++ readly
 
 ## Currently learning
 + Unity
